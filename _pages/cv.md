@@ -9,6 +9,16 @@ redirect_from:
 
 {% include base_path %}
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-FK0RK883D7"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-FK0RK883D7');
+</script>
+
 <style>
   .cv-container { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; color: #333; }
   .cv-section { margin-bottom: 2.5rem; }
@@ -40,6 +50,10 @@ redirect_from:
   .download-btn:hover { background-color: #0255b3; transform: translateY(-2px); text-decoration: none !important; box-shadow: 0 6px 8px rgba(3, 102, 214, 0.3); color: #fff; }
   html[data-theme="dark"] .download-btn { background-color: #58a6ff; color: #0d1117; box-shadow: 0 4px 6px rgba(88, 166, 255, 0.2); }
   html[data-theme="dark"] .download-btn:hover { background-color: #79c0ff; box-shadow: 0 6px 8px rgba(88, 166, 255, 0.3); color: #0d1117; }
+
+  /* Profile Picture Outline */
+  .author__avatar img { border: 3px solid #0366d6; padding: 2px; }
+  html[data-theme="dark"] .author__avatar img { border-color: #58a6ff; }
 </style>
 
 <div class="cv-container">
@@ -88,12 +102,16 @@ redirect_from:
 <div class="cv-section">
   <h2 class="cv-header">Skills</h2>
   <div class="skill-group">
-    <span class="skill-label">Programming:</span>
-    <span class="skill-tag">Python</span> <span class="skill-tag">MATLAB</span> <span class="skill-tag">SQL</span>
+    <span class="skill-label">Technical:</span>
+    <span class="skill-tag">Python</span> <span class="skill-tag">MATLAB</span> <span class="skill-tag">SQL</span> <span class="skill-tag">Software Development</span> <span class="skill-tag">Computer Science</span> <span class="skill-tag">Cybersecurity</span> <span class="skill-tag">Service Manager 7</span> <span class="skill-tag">Computer Literacy</span>
+  </div>
+  <div class="skill-group">
+    <span class="skill-label">Business & Operations:</span>
+    <span class="skill-tag">Project Management</span> <span class="skill-tag">Process Improvement Implementation</span> <span class="skill-tag">Performance Improvement</span> <span class="skill-tag">CRM</span> <span class="skill-tag">Inventory & Pricing Controls</span> <span class="skill-tag">Material Scheduling</span> <span class="skill-tag">Real Estate Transactions</span> <span class="skill-tag">Marketing</span>
   </div>
   <div class="skill-group">
     <span class="skill-label">Languages:</span>
-    <span class="skill-tag">Fluent in Arabic</span> <span class="skill-tag">Conversational in Spanish</span>
+    <span class="skill-tag">Fluent in Arabic</span> <span class="skill-tag">Spanish</span>
   </div>
   <div class="skill-group">
     <span class="skill-label">Certifications:</span>

@@ -7,6 +7,16 @@ redirect_from:
   - /about.html
 ---
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-FK0RK883D7"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-FK0RK883D7');
+</script>
+
 <style>
   .about-content { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; color: #333; }
   .about-intro { font-size: 1.15em; line-height: 1.6; margin-bottom: 2rem; color: #444; }
@@ -32,6 +42,10 @@ redirect_from:
   html[data-theme="dark"] .info-meta { color: #b0b0b0; }
   html[data-theme="dark"] .contact-label { color: #fff; }
   html[data-theme="dark"] a { color: #58a6ff; }
+
+  /* Profile Picture Outline */
+  .author__avatar img { border: 3px solid #0366d6; padding: 2px; }
+  html[data-theme="dark"] .author__avatar img { border-color: #58a6ff; }
 </style>
 
 <div class="about-content">
@@ -59,7 +73,7 @@ redirect_from:
       <li><span class="contact-label">Phone:</span> 713-340-8873</li>
       <li><span class="contact-label">Email:</span> <a href="mailto:abdullah80503@hotmail.com">abdullah80503@hotmail.com</a></li>
       <li><span class="contact-label">LinkedIn:</span> <a href="https://www.linkedin.com/in/abdullah-mansour-54843229/">Abdullah Mansour</a></li>
-      <li><span class="contact-label">Web:</span> <a href="http://cs.uh.edu">Department of Computer Science</a></li>
+      <li><span class="contact-label">Web:</span> <a href="https://abdullahmansour01.github.io/">https://abdullahmansour01.github.io/</a></li>
     </ul>
   </div>
 </div>
