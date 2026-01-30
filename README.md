@@ -6,7 +6,7 @@ The site is built using **Jekyll** and hosted on **GitHub Pages**, based on the 
 
 ## 🚀 Getting Started
 
-You can view the live website at: **[Insert your GitHub Pages URL here]**
+You can view the live website at: https://abdullahmansour01.github.io/
 
 ## 💻 Running Locally
 
