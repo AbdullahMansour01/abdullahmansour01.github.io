@@ -71,7 +71,7 @@ redirect_from:
     <ul class="contact-list">
       <li><span class="contact-label">Location:</span> Sugar Land, TX</li>
       <li><span class="contact-label">Phone:</span> 713-340-8873</li>
-      <li><span class="contact-label">Email:</span> <a href="mailto:abdullah80503@hotmail.com">abdullah80503@hotmail.com</a></li>
+      <li><span class="contact-label">Email:</span> <a href="mailto:abdullah0803@hotmail.com">abdullah0803@hotmail.com</a></li>
       <li><span class="contact-label">LinkedIn:</span> <a href="https://www.linkedin.com/in/abdullah-mansour-54843229/">Abdullah Mansour</a></li>
       <li><span class="contact-label">Web:</span> <a href="https://abdullahmansour01.github.io/">https://abdullahmansour01.github.io/</a></li>
     </ul>
