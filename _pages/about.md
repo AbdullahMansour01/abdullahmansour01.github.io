@@ -50,7 +50,8 @@ redirect_from:
 
 <div class="about-content">
   <div class="about-intro">
-    Computer Science student at the University of Houston (graduating May 2026) with skills in Python, MATLAB, and data-driven solutions. Experienced leader with 7+ years in management and client-facing roles, seeking opportunities in software development and data analysis.
+    Computer Science student at the University of Houston (graduating May 2026) with a strong foundation in software engineering, algorithms, and data analysis. Skilled in Python, MATLAB, SQL, and object-oriented programming, with experience building data-driven solutions, analytical tools, and academic projects.
+Brings 7+ years of leadership experience in management and client-facing roles, developing strengths in problem-solving, communication, and team collaboration. Actively seeking internship or entry-level opportunities in software development, data analysis, or related technical roles where engineering skills and real-world experience intersect.
   </div>
 
   <div class="info-card">
